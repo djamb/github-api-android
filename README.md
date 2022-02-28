@@ -4,7 +4,7 @@ The fragment shows the list of GitHub repositories of an user, Clicking on each 
 
 Configuration
 =============
-We can change the user repositories name and page size in the class data/remote/api/base/Constant
+We can change the user repositories name and page size in  class data/remote/api/base/Constant
 
-
+We can change the credentials in class /app/modules/GithubApiModule.kt
 
