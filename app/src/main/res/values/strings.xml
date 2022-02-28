@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github Sample</string>
+
+    <string name="users_list_fragment_title">Github users</string>
+    <string name="single_user_fragment_title">Github User Information</string>
+
+    <string name="msg_users_list_is_empty">Empty!</string>
+    <string name="msg_fetch_users_list_has_error">Has Error!</string>
+
+
+
+    <string name="repo_url">Repo URL</string>
+    <string name="owner_url">Owner URL</string>
+</resources>
